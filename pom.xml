@@ -83,11 +83,19 @@
 			<version>1.1</version>
 		</dependency>
 
+<!-- 		<dependency> -->
+<!-- 			<groupId>org.apache.poi</groupId> -->
+<!-- 			<artifactId>poi</artifactId> -->
+<!-- 			<version>3.12</version> -->
+<!-- 		</dependency> -->
+
+		<!-- https://mvnrepository.com/artifact/com.codoid.products/fillo -->
 		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi</artifactId>
-			<version>3.12</version>
+			<groupId>com.codoid.products</groupId>
+			<artifactId>fillo</artifactId>
+			<version>1.17</version>
 		</dependency>
+
 		<!-- <dependency> -->
 		<!-- <groupId>com.epam.reportportal</groupId> -->
 		<!-- <artifactId>logger-java-logback</artifactId> -->
@@ -100,7 +108,7 @@
 		<!-- <version>4.0.1</version> -->
 		<!-- </dependency> -->
 		<!-- https://mvnrepository.com/artifact/org.openpnp/opencv -->
-		
+
 	</dependencies>
 
 	<build>
